@@ -1,0 +1,27 @@
+name: Publish Mod
+
+# Run when a new release is... released
+on:
+  release:
+    types: [published]
+
+  push:
+    paths-ignore:
+      - .gitignore
+      - ".github/**"
+      - README.md
+
+  pull_request:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+jobs:
+  main:
+    name: ''
+    uses: beeheim/actions-workflows/.github/workflows/publish-modpack.yaml@main
+    with:
+      team: Beeheim
+      community: valheim
+    secrets: inherit
