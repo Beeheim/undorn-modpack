@@ -1,8 +1,8 @@
 {
-  "name": "Beeheim_Official_Modpack",
+  "name": "Undorn_Official_Modpack",
   "version_number": "1.0.0",
   "website_url": "https://discord.gg/zRDF3xew",
-  "description": "Official modpack for the Beeheim is Happy community",
+  "description": "Official modpack for the Undorn Valheim Community",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
     "ValheimModding-Jotunn-2.20.0",
