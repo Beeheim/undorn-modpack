@@ -20,8 +20,8 @@ on:
 jobs:
   main:
     name: ''
-    uses: beeheim/actions-workflows/.github/workflows/publish-modpack.yaml@main
+    uses: undorn/actions-workflows/.github/workflows/publish-modpack.yaml@main
     with:
-      team: Beeheim
+      team: Undorn
       community: valheim
     secrets: inherit
