@@ -10,7 +10,7 @@ permissions:
 jobs:
   main:
     name: ""
-    uses: beeheim/actions-workflows/.github/workflows/generate-readme.yaml@main
+    uses: undorn/actions-workflows/.github/workflows/generate-readme.yaml@main
     # with:
     #   test-branch-name: generate-readme
     secrets: inherit
