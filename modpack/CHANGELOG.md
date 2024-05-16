@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 2024-05-17
+
+### Changed
+
+- Bumped version for Azumatt-AzuAntiCheat-4.3.5 - 4.3.6
+
 ## [1.0.3] - 2024-05-16
 
 ### Changed
