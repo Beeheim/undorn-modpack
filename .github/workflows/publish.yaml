@@ -10,8 +10,9 @@ on:
       - .gitignore
       - ".github/**"
       - README.md
-    branches:
-      - main 
+
+    tags:
+      - "v*.*.*"
 
   workflow_dispatch:
 
