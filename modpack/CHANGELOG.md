@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2024-05-16
+
+### Changed
+- Version bump to 1.0.3 due to github action not triggering correctly.
+
 ## [1.0.2] - 2024-05-16
 
 ### Added
