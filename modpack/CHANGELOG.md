@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] - 2024-05-17
+
+### Added
+
+- VentureValheim-Venture_Location_Reset-0.9.0 **was missing**
+- Pineapple-MoreGates-1.0.11 **was missing**
 ## [1.0.4] - 2024-05-17
 
 ### Changed
