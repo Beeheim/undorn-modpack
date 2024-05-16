@@ -4,12 +4,7 @@ name: Publish Mod
 on:
   release:
     types: [published]
-
-  push:
-    paths-ignore:
-      - .gitignore
-      - ".github/**"
-      - README.md
+   
 
   workflow_dispatch:
 
