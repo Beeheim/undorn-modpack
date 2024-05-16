@@ -23,5 +23,24 @@ This is the official modpack for the Undorn server. It is a collection of mods t
     - move the config files from the `extracted-folder/config` to the `BepInEx/config` folder
   - Run the game
 
+---
+
+## Greylisted Mods
+
+> Greylisted mods are entirely optional and are not included in the official modpack. They are mods that we have tested and found to be compatible with the official modpack. However, they may not be as balanced as the mods in the official modpack.
+
+- [Cʜᴀᴛᴛᴇʀ](https://thunderstore.io/c/valheim/p/ComfyMods/Chatter/)
+- [IɴᴛᴇʀᴀᴄᴛWʜɪʟᴇBᴜɪʟᴅ](https://thunderstore.io/c/valheim/p/tonsit/InteractWhileBuilding/)
+- [FᴀsᴛLɪɴᴋ](https://thunderstore.io/c/valheim/p/Azumatt/FastLink/)
+- [FʟᴏᴀᴛɪɴɢIᴛᴇᴍs](https://thunderstore.io/c/valheim/p/castix/FloatingItems/)
+- [CᴏᴍғʏGɪᴢᴍᴏ](https://thunderstore.io/c/valheim/p/ComfyMods/Gizmo/)
+- [NᴏBᴜɪʟᴅDᴜsᴛ](https://thunderstore.io/c/valheim/p/Azumatt/NoBuildDust/)
+- [Qᴜɪᴄᴋ_Sᴛᴀᴄᴋ_Sᴛᴏʀᴇ...](https://thunderstore.io/c/valheim/p/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/)
+- [AAA_Cʀᴀғᴛɪɴɢ](https://thunderstore.io/c/valheim/p/Azumatt/AAA_Crafting/)
+- [AᴢᴜCʟᴏᴄᴋ](https://thunderstore.io/c/valheim/p/Azumatt/AzuClock/)
+- [AᴢᴜCʀᴀғʏBᴏxᴇs](https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes/)
+- [AᴢᴜExᴛᴇɴᴅᴇᴅIɴᴠ...](https://thunderstore.io/c/valheim/p/Azumatt/AzuExtendedPlayerInventory/)
+- [FᴜᴇʟEᴛᴇʀɴᴀʟ](https://thunderstore.io/c/valheim/p/Marf/FuelEternal/)
+- [Gʀᴏᴜᴘs](https://thunderstore.io/c/valheim/p/Smoothbrain/Groups/)
 
 ---
