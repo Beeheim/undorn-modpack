@@ -11,9 +11,6 @@ on:
       - ".github/**"
       - README.md
 
-    tags:
-      - "v*.*.*"
-
   workflow_dispatch:
 
 jobs:
