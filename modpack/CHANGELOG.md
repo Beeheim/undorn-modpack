@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.6] - 2024-05-17
+
+### Updated
+
+- "Advize-PlantEverything-1.17.3"
+
 ## [1.0.5] - 2024-05-17
 
 ### Added
