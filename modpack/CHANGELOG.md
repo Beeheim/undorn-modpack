@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file.
 ### Updated
 
 - RustyMods-Almanac-3.2.9
-- Azumatt-AzuAntiCheat-4.3.6
+- Azumatt-AzuAntiCheat-4.3.7
 
 ## [1.0.6] - 2024-05-17
 
