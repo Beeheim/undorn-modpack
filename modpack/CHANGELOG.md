@@ -9,6 +9,11 @@ All notable changes to this project will be documented in this file.
 - RandyKnapp-AdvancedPortals-1.0.10
   - Due to a conflict causing portals to break.
 
+### Updated
+
+- RustyMods-Almanac-3.2.9
+- Azumatt-AzuAntiCheat-4.3.6
+
 ## [1.0.6] - 2024-05-17
 
 ### Updated
