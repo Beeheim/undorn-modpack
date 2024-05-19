@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.7] - 2024-05-19
+
+### Removed
+
+- RandyKnapp-AdvancedPortals-1.0.10
+  - Due to a conflict causing portals to break.
+
 ## [1.0.6] - 2024-05-17
 
 ### Updated
