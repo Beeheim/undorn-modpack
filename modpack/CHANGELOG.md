@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.8] - 2024-05-19
+
+`No Changes`- Version bumped due to testing of github actions.
+
+**This version can be ignored by players!**
+
 ## [1.0.7] - 2024-05-19
 
 ### Removed
