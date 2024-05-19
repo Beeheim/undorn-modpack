@@ -18,12 +18,13 @@ jobs:
     secrets: inherit
 
   notify-discord:
-    if: success()
+    needs: main
+    if: needs.main.result == 'success'
     name: Notify Discord
     runs-on: ubuntu-latest
   
     steps:
-     -  name: Notify Discord
+      - name: Notify Discord
         uses: tsickert/discord-webhook@v5.3.0
         with:
           embed-title: "Modpack Update"
