@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.0] - 2024-05-20
+
+### Updated
+
+- Azumatt-WardIsLove-3.5.5
+
 ## [1.1.0] - 2024-05-19
 
 ### Updated
