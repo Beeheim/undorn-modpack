@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.5.0] - 2024-05-26
+
+### Updated
+
+- Advize-PlantEverything-1.18.0
+- Smoothbrain-ServerCharacters-1.4.12
+
 ## [1.2.0] - 2024-05-22
 
 ### Updated
