@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
-# [1.5.0] - 2024-05-26
+## [1.6.0] - 2024-05-26
+
+### Updated
+
+- ValheimModding-Jotunn-2.20.1
+
+## [1.5.0] - 2024-05-26
 
 ### Updated
 
