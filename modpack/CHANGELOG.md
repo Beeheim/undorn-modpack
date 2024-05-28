@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.8.0] - 2024-05-27
+
+### Removed
+
+- 	MathiasDecrock-PlanBuild-0.16.0
+
 ## [1.7.0] - 2024-05-27
 
 ### Added
